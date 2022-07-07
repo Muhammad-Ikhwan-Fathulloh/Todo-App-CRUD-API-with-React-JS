@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# TODO APP CRUD API with Vanilla JavaScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Bootstrap
+<ul>
+    <li><strong>Create view with :</strong> https://getbootstrap.com/</li>
+</ul>
 
-## Available Scripts
+### Install React JS
+<ul>
+    <li><strong>Install Node JS :</strong> https://nodejs.org/en/</li>
+    <li><strong>Install React JS :</strong> https://reactjs.org/</li>
+</ul>
 
-In the project directory, you can run:
+### React DOM
+<ul>
+    <li><strong>Create React DOM :</strong> https://reactjs.org/docs/react-dom.html</li>
+</ul>
 
-### `npm start`
+### Rest API with MOCK API 
+<ul>
+    <li><strong>Create endpoint api with :</strong> https://mockapi.io/</li>
+    <li><strong>My Endpoint Todo :</strong> https://62bcfafbc5ad14c110b50245.mockapi.io/api/v1/todo</li>
+    <li>Method API : 
+        <ul>
+            <li><strong>GET : https://62bcfafbc5ad14c110b50245.mockapi.io/api/v1/todo</strong></li> 
+            <li><strong>GET by ID : https://62bcfafbc5ad14c110b50245.mockapi.io/api/v1/todo/:id</strong></li>  
+            <li><strong>POST : https://62bcfafbc5ad14c110b50245.mockapi.io/api/v1/todo</strong></li> 
+            <li><strong>PUT : https://62bcfafbc5ad14c110b50245.mockapi.io/api/v1/todo/:id</strong></li> 
+            <li><strong>DELETE : https://62bcfafbc5ad14c110b50245.mockapi.io/api/v1/todo/:id</strong></li> 
+        </ul>
+    </li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### React JS Fetch API with AXIOS
+<ul>
+    <li><strong>Install NPM AXIOS :</strong> https://www.npmjs.com/package/react-axios</li>
+    <li><strong>How to make AXIOS :</strong> https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/</li>
+    <li>Method API : 
+        <ul>
+            <li><strong>GET</strong></li> 
+            <li><strong>GET by ID</strong></li>  
+            <li><strong>POST</strong></li> 
+            <li><strong>PUT</strong></li> 
+            <li><strong>DELETE</strong></li> 
+        </ul>
+    </li>
+</ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Deploy with Netlify
+<ul>
+    <li><strong>Deploy :</strong> </li>
+</ul>

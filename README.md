@@ -33,7 +33,7 @@
 
 ### React JS Fetch API with AXIOS
 <ul>
-    <li><strong>Install NPM AXIOS :</strong> https://www.npmjs.com/package/react-axios</li>
+    <li><strong>Install NPM AXIOS :</strong> https://www.npmjs.com/package/axios</li>
     <li><strong>How to make AXIOS :</strong> https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/</li>
     <li>Method API : 
         <ul>

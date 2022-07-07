@@ -1,4 +1,4 @@
-# TODO APP CRUD API with Vanilla JavaScript
+# TODO APP CRUD API with React JS
 
 ### Bootstrap
 <ul>
